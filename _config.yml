@@ -1,7 +1,7 @@
 name: New
 favicon: null
-layout_spectrum: 0.33772606449201703
-typography_spectrum: 0.36826709215529263
+layout_spectrum: 1
+typography_spectrum: 0.43956
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.22902541933581233
-  lightness: 0.9698842903599143
-  saturation: 0.665563213871792
-  rhythmicContrast: 0.009221418295055628
+    - '#280000'
+    - '#191919'
+    - '#e9e9e9'
+    - '#ff4040'
+    - '#5d1010'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
